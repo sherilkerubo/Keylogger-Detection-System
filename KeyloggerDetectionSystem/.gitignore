@@ -1,0 +1,38 @@
+# PYTHON 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# NODE / REACT 
+node_modules/
+build/
+dist/
+.cache/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+#  OS GENERATED 
+.DS_Store
+Thumbs.db

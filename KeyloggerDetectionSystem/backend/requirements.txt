@@ -1,0 +1,8 @@
+
+flask
+keyboard
+psutil
+scapy
+requests
+tensorflow
+joblib
